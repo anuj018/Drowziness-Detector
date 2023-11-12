@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+torch
+torchvision
+tqdm
+seaborn 
+pandas
+tensorboard
